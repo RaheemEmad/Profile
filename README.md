@@ -74,17 +74,11 @@ user@profile:~$ cat /etc/interests
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <a href="https://github.com/RaheemEmad">
-
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemEmad&show_icons=true&theme=react&hide_border=true"/>
-
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemEmad&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-
 </a>
-
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemEmad&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true"/>
-
 </div>
 
 ---
@@ -92,11 +86,7 @@ user@profile:~$ cat /etc/interests
 ## 💻 Development Stack
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,php,dotnet,wordpress,c,cpp,python&perline=10" />
-
-
-
 </div>
 
 ---
@@ -134,7 +124,7 @@ user@profile:~$ cat /etc/interests
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=2638d9&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=2638d9&bar_color_cover=true">
   </a>
 </div>
 
