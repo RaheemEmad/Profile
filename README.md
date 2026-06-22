@@ -1,52 +1,17 @@
 <h1 align="center">
 Hello, I'm Raheem Amer 👋
+	<img src="https://komarev.com/ghpvc/?username=RaheemEmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </h1>
 
-<div align="center">
-
-<a href="https://committers.top/egypt" target="_blank">
-	<img src="https://user-badge.committers.top/egypt/RaheemEmad.svg" alt="Committer Ranking" title="Top Committer Egypt"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=RaheemEmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
-
 <h3 align="center">
-
-Cloud & Infrastructure Engineer in Progress ☁️ |
-Google Cloud Technical Support Engineer |
-Talent Acquisition Specialist |
-Open Source Enthusiast |
+Google Cloud Engineer |
 Cat Dad 🐱 |
 INFJ 2w1
-
 </h3>
 
 <div align="center">
-
-<img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemEmad/RaheemEmad/blob/main/Raheem%20Amer's%20Introduction.gif">
-
-</div>
-
-<br>
-
-<div align="center">
-
 ⚡ Building systems instead of just interfaces
-
-☁️ Cloud • Infrastructure • Networking • Automation • Security
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=RaheemEmad\&theme=nord\&no-frame=false\&no-bg=false\&margin-w=6&\&hide_border=true)
-
+☁️ Cloud | Infrastructure | Networking | Automation | Security
 </div>
 
 ---
@@ -58,9 +23,10 @@ Current Role:
   - Google Cloud Technical Support Engineer
 
 Background:
+  - Full Stack Web Development
   - Talent Acquisition Specialist
-  - Frontend Development
-  - Customer Service
+  - Customer Service & Support
+  - Product Management
 
 Current Focus:
   - Cloud Computing
@@ -78,30 +44,6 @@ Additional Interests:
   - Data Analytics
 ```
 
----
-
-## :bowtie: My Bio
-
-* ☁️ Currently working as a Google Cloud Technical Support Engineer
-
-* 🚀 Transitioning into Cloud Engineering, DevOps & DevSecOps
-
-* 🌐 Strong background in Frontend Development with React
-
-* 🏗️ Interested in Infrastructure, Networking, Security and Automation
-
-* 📊 Exploring Data Analytics and Cloud Operations
-
-* 📕 [Building and maintaining my Self-Study knowledge repository](https://github.com/RaheemEmad/SelfStudy)
-
-* 💬 Ask me about Cloud, Linux, Networking, Recruitment, Psychology and Web Development
-
-* 📚 Currently studying Cloud Architecture, Linux, Docker and DevOps Practices
-
-* 📫 Reach me at **[raheem.amer22@gmail.com](mailto:raheem.amer22@gmail.com)**
-
----
-
 ## 🎯 Current Mission
 
 * Master Cloud Fundamentals
@@ -112,17 +54,6 @@ Additional Interests:
 * Move Toward DevSecOps Engineering
 * Earn Industry Certifications
 * Contribute More To Open Source
-
----
-
-## 📚 Learning Repositories
-
-* 📕 [Self-Study Repository](https://github.com/RaheemEmad/SelfStudy)
-
-* 🧠 [Learn Programming & Problem Solving](https://github.com/RaheemEmad/Programming)
-
-* 🌱 [Continuous Learning Projects & Labs](https://github.com/RaheemEmad/Labs)
-
 ---
 
 ## ✍️ Blog Posts & Articles
@@ -163,7 +94,9 @@ Additional Interests:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,materialui)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,php,dotnet,wordpress,c,cpp,python&perline=10" />
+
+
 
 </div>
 
@@ -173,7 +106,7 @@ Additional Interests:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,jenkins,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,prometheus,grafana,linux,bash,jenkins,githubactions)](https://skillicons.dev)
 
 </div>
 
@@ -189,54 +122,6 @@ Additional Interests:
 
 ---
 
-## 🤯 Extra Stuff
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,php,dotnet,wordpress,mongodb,firebase,nodejs,express)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🔥 Current Learning Journey
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,prometheus,grafana,linux,bash,jenkins,githubactions)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🌱 Problem Solving Journey
-
-<div align="center">
-
-| Platform   | Progress |
-| ---------- | -------- |
-| Edabit     | Growing  |
-| Sololearn  | Growing  |
-| CoderHub   | Growing  |
-| HackerRank | Growing  |
-| LeetCode   | Growing  |
-
-</div>
-
----
-
-## 📖 Currently Reading
-
-<div align="center">
-
-Head First JavaScript Programming
-
-Eric Freeman & Elisabeth Robson
-
-</div>
-
----
-
 ## 💠 Random Dev Quote
 
 <div align="center">
@@ -246,7 +131,6 @@ Eric Freeman & Elisabeth Robson
 </div>
 
 ---
-
 ## 🎵 Jamming To
 
 <div align="center">
@@ -299,6 +183,6 @@ Eric Freeman & Elisabeth Robson
 
 ### "Continuous improvement beats delayed perfection."
 
-⭐ Thanks for stopping by ⭐
+Carpe Diem
 
 </div>
