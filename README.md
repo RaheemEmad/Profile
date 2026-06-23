@@ -56,6 +56,7 @@ user@profile:~$ cat /etc/interests
 ---
 
 ## ✍️ Blog Posts, Contributions & Articles
+* [What's the difference between Manhattan OMNI and OMS ? ](https://dev.to/raheemamer/whats-the-difference-between-manhattan-omni-and-oms--2m24)
 * Got a cool info, share it here [Software-Techie-101](https://github.com/RaheemEmad/Software-Techie-101)
 ---
 
