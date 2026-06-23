@@ -116,7 +116,7 @@ user@profile:~$ cat /etc/interests
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical\&theme=tokyonight)
 
 </div>
 
