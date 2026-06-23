@@ -42,19 +42,6 @@ user@profile:~$ cat /etc/interests
 - Open Source
 - Data Analytics
 ```
-
-## 🎯 Current Mission
-
-* Master Cloud Fundamentals
-* Deepen Linux & Networking Knowledge
-* Build Real-World DevOps Projects
-* Learn Infrastructure Automation
-* Strengthen Security Fundamentals
-* Move Toward DevSecOps Engineering
-* Earn Industry Certifications
-* Contribute More To Open Source
----
-
 ## ✍️ Blog Posts, Contributions & Articles
 * [What's the difference between Manhattan OMNI and OMS ? ](https://dev.to/raheemamer/whats-the-difference-between-manhattan-omni-and-oms--2m24)
 * Got a cool info, share it here [Software-Techie-101](https://github.com/RaheemEmad/Software-Techie-101)
@@ -127,6 +114,19 @@ user@profile:~$ cat /etc/interests
 * 🎯 Kubernetes Fundamentals
 * 🎯 DevOps & Automation Certifications
 
+---
+
+## 🎯 Current Mission
+
+* Master Cloud Fundamentals
+* Deepen Linux & Networking Knowledge
+* Build Real-World DevOps Projects
+* Learn Infrastructure Automation
+* Strengthen Security Fundamentals
+* Move Toward DevSecOps Engineering
+* Earn Industry Certifications
+* Contribute More To Open Source
+  
 ---
 
 ## 📲 Connect With Me
